@@ -30,9 +30,9 @@ span{
     
 }
 .nav,a:hover{
-    color: rgb(4, 0, 255);
+    color: rgb(255, 132, 0);
     transition: cubic-bezier(0.165, 0.84, 0.44, 1);
-    background-color: black;
+    background-color: #fff;
 }
 
 .intro,p{
