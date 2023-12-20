@@ -146,3 +146,26 @@ span{
       margin: 0 auto;
     }
   }
+
+.whatsapp-float{
+    position: fixed;
+    bottom: 8%;
+    right: 18px;
+    text-align: center;
+    color: #007788;
+  }
+  .whatsapp-float .right-button{
+    width: 60px;
+    height: 60px;
+    background: url(images/WhatsApp_icon.png);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-color: #077b24;
+    background-size: 24px;
+    background-position: center;
+    float: right;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 -2px 3px -1px #007788;
+
+  }
